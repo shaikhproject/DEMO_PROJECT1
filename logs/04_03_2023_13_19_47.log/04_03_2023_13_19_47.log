@@ -1,0 +1,10 @@
+20 - root- INFO - Data Ingestion Started!!
+23 - root- INFO - read the dataset as dataframe
+29 - root- INFO - train test split is done and saved the dfs
+30 - root- INFO - Data ingestion completed!!
+61 - root- INFO - we are inside intiate data transformation !!
+65 - root- INFO - read train test data completed
+49 - root- INFO - Categorical Columns:['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+50 - root- INFO - Numerical Columns: ['writing_score', 'reading_score']
+75 - root- INFO - done the seperation of indep and dep variable
+76 - root- INFO - applying preprocessing obj on train test data
